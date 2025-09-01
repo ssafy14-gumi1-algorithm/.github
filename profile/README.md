@@ -1,27 +1,37 @@
-# Intro
-자바를 이용한 알고리즘 문제풀이 스터디
-
-## 수정 기록
-25.08.03: 폴더 구조 예시 추가(구미 1반 박지원_1429241)\
-25.08.03: 문서 업로드(구미 1반 박지원_1429241)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Java%20Algorithm%20Study&fontAlignY=45&fontSize=40&height=150&animation=fadeIn&desc=SSAFY%2014th&descAlignY=70)
 
 # 커리 큘럼
 ```
+Aug_25 
 1주차(08.04~08.10) 시뮬레이션
 2주차(08.11~08.17) 재귀
 3주차(08.18~08.24) DFS
 4주차(08.25~08.31) BFS
+
+Sep_25 
+1주차(09.01~09.07) 랜덤 유형 3문제
+2주차(09.08~09.14) 랜덤 유형 3문제
+3주차(09.15~09.21) 랜덤 유형 3문제
+4주차(09.22~09.28) 랜덤 유형 3문제
 ```
+## 문제 은행
 
-## 선정 이유
-배열이나 완전 탐색을 넣기에는 스터디원들의 수준이 있다고 생각했음.\
-시뮬레이션 문제에 배열, 완전탐색이 다 들어있기 때문에 적합하다고 생각함.\
-(사전 학습 난이도 중의 파리퇴치3 문제가 dx, dy를 이용하는 시뮬레이션 문제)
+스터디에서 풀었던 문제들을 모아뒀습니다.
+| 문제 유형                 | 문제 난이도 | 문제이름            | 문제 링크 |
+|--------------------------|-------------|---------------------|-----------|
+| 시뮬레이션 / 브루트포스  | D2           | 파리퇴치3           | [SWEA 12712](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXuARWAqDkQDFARa) |
+| 시뮬레이션               | Silver III | 거북이              | [BOJ 8911](https://www.acmicpc.net/problem/8911) |
+| 구현 / 시뮬레이션        | Silver II  | 지구 온난화         | [BOJ 5212](https://www.acmicpc.net/problem/5212) |
+| 다이나믹 프로그래밍(DP)  | Silver III | 1, 2, 3 더하기      | [BOJ 9095](https://www.acmicpc.net/problem/9095) |
+| 백트래킹 / 조합          | Gold V | 암호 만들기         | [BOJ 1759](https://www.acmicpc.net/problem/1759) |
+| 순열 / 브루트포스        | Silver III | 크면서 작은 수      | [BOJ 2992](https://www.acmicpc.net/problem/2992) |
+| 그래프 탐색(BFS/DFS)     | Silver II | 섬의 개수           | [BOJ 4963](https://www.acmicpc.net/problem/4963) |
+| 그래프 탐색(BFS/DFS)     | Silver I | 안전 영역           | [BOJ 2468](https://www.acmicpc.net/problem/2468) |
+| 그래프 탐색(BFS/DFS)     | Silver I | 영역 구하기         | [BOJ 2583](https://www.acmicpc.net/problem/2583) |
+| 그래프 탐색(BFS/DFS)     | Silver III | 바이러스            | [BOJ 2606](https://www.acmicpc.net/problem/2606) |
+| BFS(최단거리)            | Silver I | 숨바꼭질            | [BOJ 1697](https://www.acmicpc.net/problem/1697) |
+| 시뮬레이션 / BFS         | Gold IV | Puyo Puyo           | [BOJ 11559](https://www.acmicpc.net/problem/11559) |
 
-재귀는 작동방식이 머리에 있으면 크게 어렵지 않고, 없으면 함수 속 함수 속 함수를 생각해야 해서 어렵다고 생각.
-
-DFS는 2주차에 배운 재귀를 이용한 그래프 탐색 알고리즘. 알고리즘 코테 단골 손님.\
-BFS는 Queue를 이용하는 그래프 탐색 알고리즘. DFS와 함께 알고리즘 코테의 기본이 되는 알고리즘. 
 
 
 # 스터디 진행 방식
@@ -84,3 +94,8 @@ https://blog.naver.com/ndb796/221226794899
 
 『이것이 코딩 테스트다 with 파이썬』의 저자 나동빈씨의 유튜브 및 블로그\
 여러 알고리즘들을 쉽게 설명
+
+# 수정 기록
+25.09.01: 문제 은행 추가(구미 1반 박지원_1429241)\
+25.08.03: 폴더 구조 예시 추가(구미 1반 박지원_1429241)\
+25.08.03: 문서 업로드(구미 1반 박지원_1429241)
