@@ -2,17 +2,23 @@
 
 # 커리 큘럼
 ```
-Aug_25 
+25_08
 1주차(08.04~08.10) 시뮬레이션
 2주차(08.11~08.17) 재귀
 3주차(08.18~08.24) DFS
 4주차(08.25~08.31) BFS
 
-Sep_25 
+25_09
 1주차(09.01~09.07) 랜덤 유형 3문제
 2주차(09.08~09.14) 랜덤 유형 3문제
 3주차(09.15~09.21) 랜덤 유형 3문제
 4주차(09.22~09.28) 랜덤 유형 3문제
+
+25_10
+1주차(09.29~10.05) 코테 대비 3 + B형 대비 2문제 // 추석 연휴 관계로 발표x
+2주차(10.06~10.12) 코테 대비 5 + B형 대비 3문제
+3주차(10.13~10.19) 코테 대비 3 + B형 대비 2문제
+4주차(10.20~10.26) 코테 대비 3 + B형 대비 2문제
 ```
 ## 문제 은행
 
@@ -31,6 +37,18 @@ Sep_25
 | 그래프 탐색(BFS/DFS)     | Silver III | 바이러스            | [BOJ 2606](https://www.acmicpc.net/problem/2606) |
 | BFS(최단거리)            | Silver I | 숨바꼭질            | [BOJ 1697](https://www.acmicpc.net/problem/1697) |
 | 시뮬레이션 / BFS         | Gold IV | Puyo Puyo           | [BOJ 11559](https://www.acmicpc.net/problem/11559) |
+| 시뮬레이션 / BFS         | Gold IV     | 빙산                  | [BOJ 2573](https://www.acmicpc.net/problem/2573) |
+| 백트래킹 / 조합          | Silver I    | 스타트와 링크         | [BOJ 14889](https://www.acmicpc.net/problem/14889) |
+| 구현 / 시뮬레이션        | Silver IV   | 스위치 켜고 끄기      | [BOJ 1244](https://www.acmicpc.net/problem/1244) |
+| 다이나믹 프로그래밍(DP)  | Silver III  | 퇴사                  | [BOJ 14501](https://www.acmicpc.net/problem/14501) |
+| 브루트포스 / 백트래킹    | Silver I    | 연산자 끼워넣기       | [BOJ 14888](https://www.acmicpc.net/problem/14888) |
+| BFS / 시뮬레이션         | Gold III    | 아기 상어             | [BOJ 16236](https://www.acmicpc.net/problem/16236) |
+| 백트래킹                 | Silver II   | 근손실                | [BOJ 18429](https://www.acmicpc.net/problem/18429) |
+| 그리디 / 수학            | Silver V    | 거스름돈              | [BOJ 14916](https://www.acmicpc.net/problem/14916) |
+| BFS / 시뮬레이션         | Gold V      | 치즈                  | [BOJ 2636](https://www.acmicpc.net/problem/2636) |
+| 시뮬레이션 / 큐          | Gold IV     | 뱀                    | [BOJ 3190](https://www.acmicpc.net/problem/3190) |
+| 시뮬레이션 / 큐          | Silver I    | 트럭                  | [BOJ 13335](https://www.acmicpc.net/problem/13335) |
+| 트리 / LCA               | Gold IV     | 가장 가까운 공통 조상 | [BOJ 3584](https://www.acmicpc.net/problem/3584) |
 
 
 
@@ -96,6 +114,7 @@ https://blog.naver.com/ndb796/221226794899
 여러 알고리즘들을 쉽게 설명
 
 # 수정 기록
+25.10.04: 09월 문제 은행 추가(구미 6반 박지원_1429241)\
 25.09.01: 문제 은행 추가(구미 6반 박지원_1429241)\
 25.08.03: 폴더 구조 예시 추가(구미 1반 박지원_1429241)\
 25.08.03: 문서 업로드(구미 1반 박지원_1429241)
