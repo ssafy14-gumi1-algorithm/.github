@@ -1,5 +1,12 @@
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Java%20Algorithm%20Study&fontAlignY=45&fontSize=40&height=150&animation=fadeIn&desc=SSAFY%2014th&descAlignY=70)
 
+<details>
+<summary>SSAFY 9월 우수 스터디 선정🎉</summary>
+<div markdown="1">
+<img width="1120" height="1512" alt="image" src="https://github.com/user-attachments/assets/2bd17a97-84bb-43c1-ba2a-dcb8ce7671e6" />
+</div>
+</details>
+
 # 커리 큘럼
 ```
 25_08
